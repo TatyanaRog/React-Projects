@@ -1,25 +1,13 @@
-# React Projects
+# Counter
 
-Все проекты выполнены для курса на канале [Archakov Blog](https://www.youtube.com/c/ArchakovBlog)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Каждый проект хранится в отдельной ветке.
+## In the project directory, you can run:
 
-## Счётчик
-![counter](./img/counter.png)
+### `npm start`
 
-**🌿 Ветка**: `counter`
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Модальное окно
-![modal](./img/modal.png)
-
-**🌿 Ветка**: `modal`
-
-## Quiz (опросник)
-![quiz](./img/quiz.png)
-
-**🌿 Ветка**: `quiz`
-
-## Список гостей (пользователей)
-![users](./img/users.png)
-
-**🌿 Ветка**: `users`
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
